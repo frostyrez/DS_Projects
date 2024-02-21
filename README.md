@@ -8,15 +8,18 @@ Dataset: financial data from various insurance firms.
 Features: Assets, liabilities, premiums, etc.
 Problem: Resource allocation and anomaly detection (classification)
 
-![rr_outliers](https://github.com/frostyrez/DS_Projects/assets/123249055/94bf3afd-fbaf-42e3-8b6d-9d34c1d704cb)
-
+<p align="center">
+<img src="https://github.com/frostyrez/DS_Projects/assets/123249055/94bf3afd-fbaf-42e3-8b6d-9d34c1d704cb" width="60%" height="60%">
+</p>
 
 ### Recipe Picker
 Dataset: Recipes
 Features: Category, serving size, calories, etc.
 Problem: Predict high-traffic recipes (classification)
 
-![nested_pie](https://github.com/frostyrez/DS_Projects/assets/123249055/7e4b5288-455e-4bc2-a2ef-54266ec9eb01)
+<p align="center">
+<img src="https://github.com/frostyrez/DS_Projects/assets/123249055/7e4b5288-455e-4bc2-a2ef-54266ec9eb01" width="60%" height="60%">
+</p>
 
 ### Corners
 Dataset: Football match data
