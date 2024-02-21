@@ -1,2 +1,2 @@
 # DS_Projects
-Data Science Projects
+This is where I keep my data science projects.
